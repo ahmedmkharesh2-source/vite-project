@@ -1,0 +1,44 @@
+.box{
+    width: 500px;
+    height: 500px;
+}   
+.fir{
+    color: aqua;
+}
+
+
+.btn{
+    background-color:green;
+    color: white;
+}
+
+.btn:hover{
+    background-color: yellow;
+    color: black;
+}
+
+.text{
+    background-color: rgba(0, 0, 0, 0.05)
+}
+
+.slider-img{
+    height: 90vh;
+}
+/* .divimg{
+margin-left: 20px;
+} */
+.prodect img{ 
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;  
+}
+
+.cat-img img{
+    height: 50px;
+    width: 50px;
+    /* border-radius: 50px; */
+}
+.cat-img p{
+    font-size: 12px;
+        margin: 10px;
+}
